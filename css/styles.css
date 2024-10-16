@@ -8,7 +8,7 @@ body {
 }
 
 .parallax {
-    background-image: url('../media/space-background.jpg');
+    background-image: url('https://github.com/AdityaKumar0927/webdev_lab7/blob/6c00bbb3ba383a57b4b9bccf3f42e018c4b4829a/media/space-background.jpeg?raw=true');
     min-height: 400px; 
     background-attachment: fixed;
     background-position: center;
@@ -95,6 +95,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 
 @media (max-width: 768px) {
     body {
